@@ -1,0 +1,5 @@
+/// Mostrar SCROLL vertical 
+
+.notas {
+  overflow-y: scroll;
+}
